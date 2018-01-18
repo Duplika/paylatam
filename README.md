@@ -1,2 +1,2 @@
 # paylatam
-Módulo de pagos via PayU en latinoamérica
+Módulo de integración de WHMcs con PayU, plataforma de pagos de Latinoamérica.
